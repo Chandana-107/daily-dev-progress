@@ -32,14 +32,13 @@ This is my **90-day journey to prepare for internships and tech jobs**. I’m pu
 ## 📸 Social Commitment
 📌 I’m posting my daily progress here:
 - 🐦 [Twitter / X]( https://x.com/Chandana_G_?t=xvQzQetGy1I4I3V2kQ-9MQ&s=08 )
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandana-g-820a70275)
-
 ---
 
 ## 💬 Connect With Me
 If you're also learning, let’s connect and grow together!
 
 📧 chandanagangaraju21@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandana-g-820a70275)
 
 ---
 
