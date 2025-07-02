@@ -38,7 +38,7 @@ This is my **90-day journey to prepare for internships and tech jobs**. I’m pu
 If you're also learning, let’s connect and grow together!
 
 📧 chandanagangaraju21@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandana-g-820a70275)
+💼 [LinkedIn](https://www.linkedin.com/in/chandana-g-820a70275)
 
 ---
 
