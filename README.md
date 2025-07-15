@@ -16,7 +16,7 @@ This is my **90-day journey to prepare for internships and tech jobs**. I’m pu
 - Build 2-3 solid **full stack projects**
 - Polish my **GitHub**, **LinkedIn**, and **resume**
 - Apply for **internships and developer roles**
-- Post progress daily on **Twitter / X** and GitHub
+- Post progress daily on GitHub
 
 ---
 
