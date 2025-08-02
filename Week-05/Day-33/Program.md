@@ -20,7 +20,7 @@
 ---
 
 ## ⏳ Time Spent
-**~4-5 hours**
+**4-5 hours**
 
 ---
 
