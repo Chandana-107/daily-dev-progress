@@ -24,7 +24,7 @@ This is my **90-day journey to prepare for internships and tech jobs**. I’m pu
 - **Languages**: JavaScript, C++, Python
 - **Frontend**: HTML, CSS, TailwindCSS, React
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB,SQL
 - **Tools**: Git, GitHub, VS Code, Postman
 
 ---
