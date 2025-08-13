@@ -1,4 +1,4 @@
-# Day 44 - !3 August 2025
+# Day 44 - 13 August 2025
 
 ## 🧠 What I Learned:
 
