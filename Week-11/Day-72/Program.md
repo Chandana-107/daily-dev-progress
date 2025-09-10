@@ -17,5 +17,5 @@
 ⏳ 3 hours (learning + practice)
 
 ## Motivation  
- Authentication felt like a big step forward in making my apps more real-world ready.
----
+- Authentication felt like a big step forward in making my apps more real-world ready.
+
