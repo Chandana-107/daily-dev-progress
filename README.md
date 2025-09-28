@@ -33,7 +33,8 @@ If you're also learning, let’s connect and grow together!
 
 
 ## 🏆 Streak Badges  
-![GitHub Streak](https://streak-stats.demolab.com?user=Chandana-107&theme=radical&hide_border=true)   
+![GitHub Streak](https://streak-stats.demolab.com?user=Chandana-107&theme=radical&hide_border=true&fire=DD2727)
+
 
 
 ## ✨ Motivation  
