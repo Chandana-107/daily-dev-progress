@@ -12,4 +12,4 @@ I just randomly solved a few easy questions.
 1 hour (solving easy-level problems).  
 
 **Motivation of the Day:**  
-“Small steps every day add up to big progress. What matters is showing up and practicing.”  
+“Small steps every day add up to big progress. What matters is showing up and practicing”  
