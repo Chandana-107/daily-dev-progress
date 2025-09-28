@@ -1,36 +1,29 @@
-# 🚀 90 Days Tech Challenge 🚀
+# 🚀 90 Days of Code Challenge  
 
-**Hi! I’m Chandana G👋**  
-This is my **90-day journey to prepare for internships and tech jobs**. I’m publicly committing to show up every day, code, learn, and grow. This repo is my daily log. Let’s go! 💻🔥
-
----
-
-## 🗓️ Challenge Timeline
-📅 **Start Date**: July 1, 2025  
-🏁 **End Date**: September 28, 2025
+I committed to coding every day for 90 days to build consistency, strengthen my problem-solving skills, and learn full-stack development.  
+This repo is a record of my daily journey.  
 
 ---
 
-## 🎯 Goals
-- Learn & master **Data Structures and Algorithms**
-- Build 2-3 solid **full stack projects**
-- Polish my **GitHub**, **LinkedIn**, and **resume**
-- Apply for **internships and developer roles**
-- Post progress daily on GitHub
+## 📅 Journey Overview  
+
+- **Start Date:** July 1, 2025  
+- **End Date:** September 28, 2025  
+- **Goal:** Learn Full Stack Development + stay consistent with DSA 🚀  
 
 ---
 
-## 🛠️ Tech Stack I'm Learning
-- **Languages**: JavaScript, C++, Python
-- **Frontend**: HTML, CSS, TailwindCSS, React
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB,SQL
-- **Tools**: Git, GitHub, VS Code, Postman
+## 🔥 Highlights  
+- ✅ Completed **90 consecutive days of coding**  
+- ✅ Covered **Core DSA topics** (Arrays, Strings, Trees, Graphs, DP)  
+- ✅ Practiced regularly on **LeetCode**  
+- ✅ Learned **Full Stack Development**  
+  - Frontend: **HTML, CSS, JavaScript, React**  
+  - Backend: **Node.js, Express.js**  
+  - Database: **MongoDB , Sql**  
+- ✅ Strengthened **CS Fundamentals** (DBMS, OS, CN basics)  
 
 ---
-
-## 📸 Social Commitment
-📌 I’m posting my daily progress in my Github Account
 
 ## 💬 Connect With Me
 If you're also learning, let’s connect and grow together!
@@ -38,8 +31,13 @@ If you're also learning, let’s connect and grow together!
 📧 [Email](chandanagangaraju21@gmail.com )
 💼 [LinkedIn](https://www.linkedin.com/in/chandana-g-820a70275)
 
----
 
-### 🧠 “Consistency > Perfection”
-Even if it's just 1 hour a day — show up. Keep building. Let the world see your grind.
+## 🏆 Streak Badges  
+![GitHub Streak](https://streak-stats.demolab.com?user=Chandana-107&theme=radical&hide_border=true)   
 
+
+## ✨ Motivation  
+
+> *“Consistency beats motivation. 90 days later, I’m more confident in DSA and Full Stack Development.”*  
+
+  
