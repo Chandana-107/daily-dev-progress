@@ -32,11 +32,6 @@ If you're also learning, let’s connect and grow together!
 💼 [LinkedIn](https://www.linkedin.com/in/chandana-g-820a70275)
 
 
-## 🏆 Streak Badges  
-![GitHub Streak](https://streak-stats.demolab.com?user=Chandana-107&theme=radical&hide_border=true&fire=DD2727)
-
-
-
 ## ✨ Motivation  
 
 > *“Consistency beats motivation. 90 days later, I’m more confident in DSA and Full Stack Development.”*  
