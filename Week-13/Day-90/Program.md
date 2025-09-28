@@ -1,10 +1,10 @@
 # Day 90 - 28 September 2025  
 
-## 📘 Topics Covered  
+## Topics Covered  
 - Revised a few important **DSA topics**  
 - Solved a few **practice problems**  
 
-## 🕒 Time Spent  
+## Time Spent  
 4 hrs 
 
 ## 💡 Motivation of the Day  
